@@ -47,7 +47,9 @@
 //     speak("hello sir, what can i help you?");
 //   } else if (message.includes("who are you")) {
 //     speak("I am virtual assistant, crated by Vishal Patel Sir");
-//   } else if (message.includes("open youtube")) {
+//   } else if (message.includes("how are you")) {
+//      speak("I am fine and you");
+ //     }else if (message.includes("open youtube")) {
 //     speak("opening youtube...");
 //     window.open("https://www.youtube.com", "_blank");
 //   } else if (message.includes("open instagram")) {
